@@ -15,7 +15,7 @@ class BOT:
 
     TOKEN = os.environ.get("TOKEN", "")
     USERNAME = "@AIanimeGenBot"
-    SOURCE = "https://github.com/prime-hritu/Anime-Generator-Bot"
+    SOURCE = "https://github.com/MutyalaHarshith/Anime-Generator-Bot"
 
 
 class API:
